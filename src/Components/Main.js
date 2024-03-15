@@ -7,7 +7,7 @@ export default function Main(){
             <section className="container--info">
                 <h3>Parth Rawat</h3>
                 <h4>Software Engineer</h4>
-                <p>Parth's Website</p>
+                <p>Place Holder for Parth's Website</p>
             </section>
 
             <section className="buttons--main">
@@ -16,7 +16,7 @@ export default function Main(){
                     <p>Email</p>                    
                 </button>
                 <button type="button" className="linkedin">
-                    <img src={linkIco} alt='' />
+                    <img src={linkIco} alt=''/>
                     <p>LinkedIn</p> 
                 </button>
             </section>
